@@ -5,7 +5,7 @@ import random
 user_wins = 0
 computer_wins = 0
 
-options = ['rock', 'paper', 'siccors']  #list
+options = ['rock', 'paper', 'scissors']  #list
 
 # allow the user to input rock, paper, scissors, or 'q' to quit the game
 while True:
